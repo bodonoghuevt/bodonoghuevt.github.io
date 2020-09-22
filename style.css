@@ -1,0 +1,28 @@
+/*
+Cascading Excercise
+Author: bodonoghue
+Version: 09.09.2020*/
+#programming-languages {
+color: #00FFFF;
+border: 5px inset green;
+background-color: grey;
+margin-left: -3px;
+}
+#computer-skills {
+color: #228B22;
+border: 5px inset blue;
+background-color: black;
+}
+#skills-header {
+  background-color: silver;
+}
+#skills {
+  width 50%;
+}
+.skills-wrapper {
+width: 50%;
+display:inline-block;
+font: 20px Courier;
+font-weight: normal;
+margin-right: -20px;
+}
